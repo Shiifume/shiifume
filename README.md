@@ -15,63 +15,22 @@ Starting a **Bachelor's degree in Software Development** in September 2026.
 
 ## Soon training in
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### 💻 Back-end
 
-* .NET Core
-* ASP.NET Core MVC
-* Entity Framework Core
-* Blazor
-* MAUI / Ionic
-* ADO.NET
-* LINQ
-* Web API / REST API
-* SQL Server
-* T-SQL
-* Database migrations
-* Data security
-* Clean Architecture
-* DDD
-* CQRS
-* Design Patterns
-* UML
-* OOP
-* SOLID
-
-</td>
-<td valign="top" width="33%">
+`.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core`
+`Blazor` · `MAUI / Ionic` · `ADO.NET` · `LINQ`
+`Web API / REST API` · `SQL Server` · `T-SQL`
+`Clean Architecture` · `DDD` · `CQRS` · `Design Patterns`
+`UML` · `SOLID` · `Migrations & Data Security`
 
 ### 🎨 Front-end
 
-* JavaScript
-* TypeScript
-* Angular
-* HTML5
-* CSS3
-* Bootstrap
-* SASS
-* REST API consumption
-* RxJS
-
-</td>
-<td valign="top" width="33%">
+`JavaScript` · `TypeScript` · `Angular` · `HTML5` · `CSS3`
+`Bootstrap` · `SASS` · `REST API` · `RxJS`
 
 ### 🛠️ Tools & Methods
 
-* Git
-* Azure DevOps
-* CI/CD
-* Agile / Scrum
-* Docker
-* Unit testing
-* Integration testing
-* LLM integration
-* Semantic Kernel
-* ML.NET
+`Azure DevOps` · `CI/CD` · `Agile / Scrum` · `Docker`
+`Unit Testing` · `Integration Testing` · `LLM Integration`
+`Semantic Kernel` · `ML.NET`
 
-</td>
-</tr>
-</table>
