@@ -25,7 +25,7 @@ Starting a **Bachelor's degree in Software Development** in September 2026.
 
 ### 🎨 Front-end
 
-`JavaScript` · `TypeScript` · `Angular` · `HTML5` · `CSS3`
+`JavaScript` · `TypeScript` · `Angular`
 `Bootstrap` · `SASS` · `REST API` · `RxJS`
 
 ### 🛠️ Tools & Methods
