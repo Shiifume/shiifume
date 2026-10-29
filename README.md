@@ -6,28 +6,39 @@ I'm currently learning **C# and .NET** at [Technifutur](https://technifutur.be/f
 
 Starting a **Bachelor's degree in Software Development** in September 2026.
 
-## Currently working with
+## 💻 Currently Working With
 
-`C#` · `Git` · `HTML` · `CSS` · `POO`
+### Languages
+- `C#` · `HTML` · `CSS` · `T-SQL`
 
-## Soon training in
+### Back-end Development
+- `.NET Core` · `ASP.NET Core MVC` · `ADO.NET`
 
-### 💻 Back-end
+### Database
+- `SQL Server`
 
-`.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core`
-`Blazor` · `MAUI / Ionic` · `ADO.NET` · `LINQ`
-`Web API / REST API` · `SQL Server` · `T-SQL`
-`Clean Architecture` · `DDD` · `CQRS` · `Design Patterns`
-`UML` · `SOLID` · `Migrations & Data Security`
+### Development Practices
+- `Object-Oriented Programming (OOP)` · `Unit Testing`
 
-### 🎨 Front-end
+### Tools & Methodologies
+- `Git` · `Agile` · `Scrum`
 
-`JavaScript` · `TypeScript` · `Angular`
-`Bootstrap` · `SASS` · `REST API` · `RxJS`
+---
 
-### 🛠️ Tools & Methods
+## 🚀 Next on My Learning Path
 
-`Azure DevOps` · `CI/CD` · `Agile / Scrum` · `Docker`
-`Unit Testing` · `Integration Testing` · `LLM Integration`
-`Semantic Kernel` · `ML.NET`
+### Back-end Development
+- `Entity Framework Core` · `LINQ`
+- `Web API` · `REST API`
+- `Blazor` · `MAUI` · `Ionic`
+- `Clean Architecture` · `DDD` · `CQRS`
+- `Design Patterns` · `SOLID`
+- `UML` · `Migrations` · `Data Security`
 
+### Front-end Development
+- `JavaScript` · `TypeScript` · `Angular`
+- `SASS` · `RxJS` · `REST API Integration`
+
+### Tools & Quality
+- `Azure DevOps` · `CI/CD` · `Docker`
+- `Integration Testing` · `LLM Integration`
